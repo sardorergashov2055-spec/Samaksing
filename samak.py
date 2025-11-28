@@ -9,8 +9,7 @@ API_TOKEN = '6710902707:AAFxuvDnZboc02dgpxl_-HhJXUyvmBjAvN4a'
 ADMIN_ID = 5961969653
 KARTA = '9860356637855608'
 CHANNEL_LINK = "https://t.me/Sardor_ludoman"
-WEBHOOK_URL = 'https://kus-v3wz.onrender.com'  # ← /webhook qilib qo‘yildi
-
+WEBHOOK_URL = 'https://samaksing.onrender.com'  # ← /webhook qilib qo‘yildi
 bot = TeleBot(API_TOKEN)
 user_data = {}
 app = Flask(__name__)
