@@ -41,7 +41,7 @@ def aloqa_handler(call):
     
     markup = types.InlineKeyboardMarkup(row_width=1)
     markup.add(
-        types.InlineKeyboardButton("💬 Telegram Admin", url="https://t.me/KASSA_SPED"),
+        types.InlineKeyboardButton("💬 Telegram Admin", url="https://t.me/Ref12348"),
         types.InlineKeyboardButton("🔙 Asosiy menyu", callback_data="back_main")
     )
     
